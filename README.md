@@ -1,4 +1,4 @@
-# Unification and Resolution for real world problems
+# Unification and Resolution for Real World Problems
 
 #### Unification:
 The concept of unification comes from first-order logic: given two terms s and t, to unify them means to find a substitution σ over their free variables such that sσ = tσ. A substitution unifying two terms is called a unifier for them.
